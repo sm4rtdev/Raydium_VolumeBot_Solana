@@ -7,14 +7,12 @@ https://www.youtube.com/watch?v=ybjON_voQ9s&ab_channel=LeoBrandt
 
 You can try version1 with this telegram bot
 
-https://t.me/shinnyleo0912
-
 This is the video for the users who don't know well about programming to facilitate the running the CLI bots.
 I hope this is very helpful for those people.
 
 ## Contact Info
 
-Telegram: @shinnyleo0912
+Telegram: @sm4rtdev
 
 You can always feel free to find me here for my help on other projects.
 
@@ -28,8 +26,8 @@ You can always feel free to find me here for my help on other projects.
 ## Usage
 1. Clone the repository
 ```
-git clone https://github.com/solagent99/Solana_Raydium_Volume_Bot.git
-cd Solana-raydium-volume-bot
+git clone https://github.com/sm4rtdev/Raydium_VolumeBot_Solana.git
+cd Raydium_VolumeBot_Solana
 ```
 2. Install dependencies
 ```
